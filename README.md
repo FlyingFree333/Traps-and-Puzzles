@@ -10,3 +10,4 @@ Token Magic
 FX Master
 JB2A
 BLFX Assets
+Sequencer
