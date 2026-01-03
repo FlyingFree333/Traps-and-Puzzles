@@ -4,8 +4,9 @@ Collection of traps and puzzles for Foundry VTT and Dungeons & Dragons Fifth Edi
 Required Modules:
 Tagger
 Monk's Active Tiles
+Monk's Token Bar
 Move That For You
 Token Magic
 FX Master
-JB2A (free or paid)
-BLFX Assets (free or paid)
+JB2A
+BLFX Assets
