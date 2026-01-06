@@ -1,5 +1,6 @@
 # Traps-and-Puzzles
-Collection of traps and puzzles for Foundry VTT and Dungeons & Dragons Fifth Edition
+Collection of traps and puzzles for Foundry VTT and Dungeons & Dragons Fifth Edition  
+Documentation for each trap and puzzle can be found in the journal
 
 Required Modules:  
 Tagger  
