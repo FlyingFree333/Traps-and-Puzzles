@@ -4,11 +4,11 @@ Documentation for each trap and puzzle can be found in the journal
 
 Required Modules:  
 Tagger  
-Monk's Active Tiles  
-Monk's Token Bar  
+Monk's Active Tile Triggers  
+Monk's TokenBar  
 Move That For You  
-Token Magic  
-FX Master  
+Token Magic FX  
+Gambit's FX Master  
 JB2A  
 BLFX Assets  
 Sequencer  
