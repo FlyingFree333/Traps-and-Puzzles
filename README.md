@@ -13,6 +13,6 @@ JB2A
 BLFX Assets  
 Sequencer  
 
-YouTube Channel: https://www.youtube.com/@FoundryFan
-Discord: https://discord.gg/vDvrfB5sYj
-Buy me a coffee: http://ko-fi.com/flyingfree
+YouTube Channel: https://www.youtube.com/@FoundryFan  
+Discord: https://discord.gg/vDvrfB5sYj  
+Buy me a coffee: http://ko-fi.com/flyingfree  
