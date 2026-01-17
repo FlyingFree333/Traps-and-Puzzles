@@ -9,8 +9,8 @@ Monk's TokenBar
 Move That For You  
 Token Magic FX  
 Gambit's FX Master  
-JB2A  
-BLFX Assets  
+JB2A (free or paid)  
+BLFX Assets (free or paid)  
 Sequencer  
 
 YouTube Channel: https://www.youtube.com/@FoundryFan  
