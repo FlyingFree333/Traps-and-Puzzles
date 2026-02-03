@@ -13,7 +13,7 @@ JB2A (free or paid)
 BLFX Assets (free or paid)  
 Sequencer  
 
-Traps & Puzzles Module Manifest: https://github.com/FlyingFree333/Traps-and-Puzzles/releases/latest/download/module.json  
+Module Install URL: https://github.com/FlyingFree333/Traps-and-Puzzles/releases/latest/download/module.json  
 
 YouTube Channel: https://www.youtube.com/@FoundryFan  
 Discord: https://discord.gg/vDvrfB5sYj  
